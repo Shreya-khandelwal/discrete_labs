@@ -1,0 +1,49 @@
+.one
+{
+	width: 375px;
+	margin: auto;
+}
+.bimg
+{
+	background-image: url("https://beshley.com/vcard/images/bg.jpg");
+	height: 100%;
+	background-size: cover;
+	height: auto;
+	background-repeat: no-repeat;
+}
+.first-half
+{
+	margin-right: auto; 
+    margin-left: auto; 
+    text-align: center;
+}
+img
+{
+	border-radius: 50%;
+	width: 55%;
+}
+.second-half
+{
+	height: auto;
+}
+.fa
+{
+	color: black;
+}
+a .fa-linkedin:hover
+{
+	color: #0077B5;
+	background-color: white;
+}
+.fa-instagram:hover
+{
+	color: #e4405f;
+}
+.fa-facebook:hover
+{
+	color: #3b5999;
+}
+h2
+{
+	background-color: 	#fbbe00;
+}
